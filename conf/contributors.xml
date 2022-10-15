@@ -2559,7 +2559,8 @@ Please keep the list in alphabetical order by last name!
  name="Alasdair McAndrew"
  location="Australia"
  url="http://amca01.wordpress.com"
- trac="amca01"/>
+ trac="amca01"
+ github="amca01"/>
 <contributor
  name="Peter McNamara"
  work="Department of Mathematics, Bucknell University"
